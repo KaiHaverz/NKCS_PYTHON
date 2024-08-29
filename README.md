@@ -1,2 +1,6 @@
 # python_learning_record
-南开大学软件学院-python语言程序设计-课程学习记录
+Python 学习记录
+
+## 课程资源
+- 南开大学软件学院 专业选修课 Python 语言程序设计
+- 北大陈斌网课
