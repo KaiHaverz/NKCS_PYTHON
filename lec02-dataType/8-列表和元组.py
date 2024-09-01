@@ -34,4 +34,5 @@ print("---------------------")
 
 print(31 in shirt_num)
 print(shirt_num.index(31))
+
 print(sum(shirt_num))
