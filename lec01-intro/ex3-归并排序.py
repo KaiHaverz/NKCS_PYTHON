@@ -18,5 +18,7 @@ def merge_sort(data_list):
 data_list = [random.randint(1, 100) for _ in range(50)]
 print(merge_sort(data_list))
 
+#厕都
+print("\n厕都首发球员:")
 data_list2 = [16,4,23,22,11,2,8,39,10,7,21]
 print(merge_sort(data_list2))
