@@ -47,7 +47,7 @@ with mp_hands.Hands(
                     connection_drawing_spec=hand_landmark_style  # 荧光绿线条
                 )
                 # 将翻转的图像保存到指定路径
-                cv2.imwrite('./result2.png', cv2.flip(image, 1))
+                cv2.imwrite('result2.png', cv2.flip(image, 1))
 
         # 将图像水平翻转，以获得类似自拍的显示效果
         cv2.imshow('MediaPipe Hands', cv2.flip(image, 1))
